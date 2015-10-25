@@ -3,6 +3,9 @@ _Gabriel A. von Winckler_
 
 This is the repo for the Course Project on Getting and Cleaning Data, a course available on Coursera from Johns Hopkins.
 
+This work uses the dataset provided at UCI:
+  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 ## run_analysis.R
 
 R source code with all routines for the analysis.
